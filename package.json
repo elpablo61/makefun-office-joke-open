@@ -1,0 +1,1 @@
+{"description":"Make the AI Judge Laugh: the Office Joke Open — one line of office comedy.","license":"MIT","main":"main.ts","name":"makefun-office-joke-open","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
